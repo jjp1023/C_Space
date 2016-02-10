@@ -1,6 +1,7 @@
 #include <iostream>
 #include "planet.h"
 #include "unit.h"
+#include <cstring>
 using namespace std;
 
 /*planet::planet(char *name) : unit (xPos,yPos,zPos)
