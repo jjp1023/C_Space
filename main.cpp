@@ -6,14 +6,12 @@
 #include "planetoid.h"
 #include <ctime>    // For time()
 #include <cstdlib>  // For srand() and rand()
-#include <windows.h>
 #include <string>
 #include <cctype>
 #include <iostream> // for debugging right now
 #include <fstream>  // ditto
 #include <cmath> // for sqrt
 //#include <stdio> // for date time
-
 
 using namespace std; 
 
